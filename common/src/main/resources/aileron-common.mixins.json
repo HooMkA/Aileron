@@ -12,6 +12,7 @@
 		"CampfireBlockEntityMixin",
 		"CampfireBlockMixin",
 		"EnchantmentHelperMixin",
+		"FireworkRocketEntityMixin",
 		"LivingEntityMixin",
 		"MixinFireworkRocketItem",
 		"PlayerEntityMixin"
