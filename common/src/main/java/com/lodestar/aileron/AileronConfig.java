@@ -6,7 +6,7 @@ public class AileronConfig extends MidnightConfig {
 	@Comment public static Comment generalChanges;
 	@Entry public static FireworkUseBehaviour fireworkUseBehaviour = FireworkUseBehaviour.COSMETIC;
 	public enum FireworkUseBehaviour {
-		COSMETIC, NORMAL, DISABLE
+		COSMETIC_NO_BOOST, COSMETIC, NORMAL, DISABLE
 	}
 
 	@Comment public static Comment cameraSettings;
