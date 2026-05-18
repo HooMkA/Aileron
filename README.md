@@ -1,3 +1,8 @@
+# from HooMkA  
+Added new config option `COSMETIC_NO_BOOST`, cause standart options has big initial firework boost(when you start from the ground)  
+Otherwise it has a veeeery small boost, but i think it's good for Create: Aeronautic
+
+
 # Aileron
 ![Mod Loader: All Of Them](https://img.shields.io/badge/loader-Forge%2C%20Fabric%2C%20and%20Quilt-1976d2?style=flat-square&color=orange&logo=CodeIgniter&labelColor=0d1117)
 <a href="https://discord.gg/4J2ZM6T8nT">
