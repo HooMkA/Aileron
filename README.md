@@ -1,7 +1,7 @@
 # from HooMkA  
 Added new config option `COSMETIC_NO_BOOST`, cause standart options has big initial firework boost(when you start from the ground)  
 Otherwise it has a veeeery small boost, but i think it's good for Create: Aeronautic  
-some text for test gpg  
+some text 
 
 
 
